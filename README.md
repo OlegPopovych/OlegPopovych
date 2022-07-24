@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlegPopovych
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, java, react
 - 💞️ I’m looking to collaborate on learning javascript
 - 📫 How to reach me Ukraine, Ivano-Frankivsk city
 
