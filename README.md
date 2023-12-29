@@ -5,9 +5,8 @@
 <p align="center">
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
   
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👋 Hi, I’m @OlehPopovych
-- 👀 I’m Full stack developer
+Hi, my name is Oleh
+- 👋 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-OlehPopovych-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-popovych-a23152246/)
 
 ---
@@ -42,9 +41,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlegPopovych&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlegPopovych&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPopovych&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegPopovych&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
