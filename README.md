@@ -5,6 +5,6 @@
 - 📫 How to reach me Ukraine, Ivano-Frankivsk city
 
 <!---
-OlehPopovych/OlehPopovych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OlegPopovych/OlegPopovych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
